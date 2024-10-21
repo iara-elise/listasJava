@@ -22,7 +22,9 @@ public class Q06 {
 
         double media = somatorioNotas / qtdNotas;
         System.out.printf("MÉDIA ARITMÉTRICA: %.1f", media );
-        
+
+
+        // PRIMEIRO VERSÃO DA RESOLUÇÃO:
 
         // System.out.print("Nota 1: ");
         // double nota_01 = tec.nextDouble();

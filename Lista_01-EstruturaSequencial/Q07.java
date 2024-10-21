@@ -31,6 +31,8 @@ public class Q07 {
          System.out.printf("MÉDIA PONDERADA: %.1f", mediaPonderada);
 
 
+        // PRIMEIRA VERSÃO DA RESOLUÇÃO:
+
         // System.out.print("Nota 1: ");
         // double nota_01 = tec.nextDouble();
         
